@@ -22,6 +22,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.umy.questnavigasimvvm_102.R
 import com.umy.questnavigasimvvm_102.model.Mahasiswa
 import com.umy.questnavigasimvvm_102.model.RencanaStudi
 
@@ -36,7 +37,7 @@ fun TampilView(
     Column(
         modifier = Modifier
             .fillMaxSize()
-            .background(colorResource(id = R.color.primary)),
+            .background(colorResource(id = R.color.teal_700)),
         horizontalAlignment = Alignment.CenterHorizontally
     ) {
         Spacer(modifier = Modifier.padding(top = 16.dp))
