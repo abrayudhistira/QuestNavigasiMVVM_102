@@ -1,4 +1,4 @@
-package com.umy.questnavigasimvvm_102.view.screen
+package com.umy.questnavigasimvvm_102.ui.view.screen
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
