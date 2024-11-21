@@ -1,5 +1,5 @@
 package com.umy.questnavigasimvvm_102.data
-//membuat model Mata Kuliah
+//membuat model data Mata Kuliah
 object MataKuliah {
     val option = listOf(
         "Computer Vision",
